@@ -1,4 +1,4 @@
-var   x, y;
+let   x, y;
 x = document.getElementById("passcode")
 y = document.getElementById("show")
  function passwordToggle (){
