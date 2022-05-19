@@ -1,7 +1,6 @@
 var   x, y;
 x = document.getElementById("passcode")
 y = document.getElementById("show")
-
  function passwordToggle (){
     if(x.type === "password" && x.value !=""){
         x.type = "text"; 
